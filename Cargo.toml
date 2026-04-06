@@ -1,0 +1,9 @@
+[package]
+name = "mjsolver"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+arrayvec = "0.7.6"
+bitvec = "1"
+strum = { version = "0.28.0", features = ["derive"] }
